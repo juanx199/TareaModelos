@@ -16,3 +16,4 @@ Mantener la coherencia en la composición de los menús. Es decir, que un plato 
 Diagrama UML de la solución. (3 PUNTOS)
 
 Código Java aplicación del patrón (GitHub). (2 PUNTOS)
+<img width="3132" height="433" alt="DiagramaRestauranteUML" src="https://github.com/user-attachments/assets/ff6fa346-64bc-4879-bba7-3377d4ee9889" />
